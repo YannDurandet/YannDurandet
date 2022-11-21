@@ -14,3 +14,5 @@
 ## Check out some of my projects :
 - <a href="https://yanndurandet.github.io/Yann/">🏆Portfolio</a>
 - <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
