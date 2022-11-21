@@ -15,4 +15,4 @@
 - <a href="https://yanndurandet.github.io/Yann/">🏆Portfolio</a>
 - <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet)](https://github.com/YannDurandet/github-readme-stats)
+<div style="background-color:#242424">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet)](https://github.com/YannDurandet/github-readme-stats)</div>
