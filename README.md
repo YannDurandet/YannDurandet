@@ -20,3 +20,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YannDurandet/count.svg" />
 </p>
+
+<a href=#><img src="contributions.svg"></a>
