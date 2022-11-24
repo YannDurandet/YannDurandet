@@ -1,4 +1,3 @@
-
 # 👋Hey, I'm Yann.
 
 #### 🌲Welcome to my GitHub profile. I am a 19 year old junior front-end web-developer currently studying at the Normandie Web Schoolin Rouen, France. and I am currently learning Web-developement,design & marketing.
