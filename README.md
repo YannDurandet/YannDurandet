@@ -16,3 +16,8 @@
 - <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet&layout=compact&show_icons=true&theme=transparent)](https://github.com/YannDurandet/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/YannDurandet/count.svg" />
+</p>
