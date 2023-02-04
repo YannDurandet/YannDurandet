@@ -18,5 +18,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YannDurandet/count.svg" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet&layout=compact&show_icons=true&theme=transparent)](https://github.com/YannDurandet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet&layout=compact&show_icons=true&theme=transparent)](https://github.com/YannDurandet/github-readme-stats)]
 
