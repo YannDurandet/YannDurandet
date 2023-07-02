@@ -10,7 +10,7 @@
 - <a href="https://www.linkedin.com/in/yann-durandet-16472a252/">📚Linkedin</a>
 
 ## Check out some of my projects :
-- <a href="https://yanndurandet.github.io/portfolio">🏆Portfolio</a>
+- <a href="https://yanndurandet.me">🏆Portfolio</a>
 - <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
 - <a href="https://yanndurandet.github.io/TheMatrix">🖥️The Matrix</a>
 <p align="center"> 
