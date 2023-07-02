@@ -6,7 +6,7 @@
 
 ##  You can follow me here :
 - <a href="https://github.com/YannDurandet">💾Github</a>
-- <a href="https://www.instagram.com/yann.drndt/">📸Instagram</a>
+- <a href="https://www.instagram.com/yann_visuals/">📸Instagram</a>
 - <a href="https://www.linkedin.com/in/yann-durandet-16472a252/">📚Linkedin</a>
 
 ## Check out some of my projects :
