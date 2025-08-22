@@ -13,7 +13,3 @@
 - <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
 - <a href="https://yanndurandet.github.io/TheMatrix">🖥️The Matrix</a>
 - <a href="https://yanndurandet.github.io/arrowz">🏹Arrowz</a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/YannDurandet/count.svg" />
-</p>
