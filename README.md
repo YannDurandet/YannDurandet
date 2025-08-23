@@ -9,7 +9,9 @@
 - <a href="https://www.instagram.com/yann.durandet/">📸Instagram</a>
 
 ## Check out some of my projects :
-- <a href="https://yanndurandet.me">🏆Portfolio</a>
-- <a href="https://yanndurandet.github.io/YannDesigns">🏔️Minecraft Design shop</a>
-- <a href="https://yanndurandet.github.io/TheMatrix">🖥️The Matrix</a>
-- <a href="https://yanndurandet.github.io/arrowz">🏹Arrowz</a>
+- <a href="https://yanndurandet.me">🏆 Portfolio</a>
+- <a href="https://yanndurandet.github.io/YannDesigns">🏔️ Minecraft Design shop</a>
+- <a href="https://yanndurandet.github.io/TheMatrix">🖥️ The Matrix</a>
+- <a href="https://yanndurandet.github.io/arrowz">🏹 Arrowz</a>
+- <a href="https://yanndurandet.github.io/Halftone-Editor"/>🖼️ Halftone Editor</a>
+
