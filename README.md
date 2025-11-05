@@ -14,4 +14,4 @@
 - <a href="https://yanndurandet.github.io/TheMatrix">🖥️ The Matrix</a>
 - <a href="https://yanndurandet.github.io/arrowz">🏹 Arrowz</a>
 - <a href="https://yanndurandet.github.io/Halftone-Editor"/>🖼️ Halftone Editor</a>
-
+- - <a href="https://yanndurandet.github.io/24-hours-of-gradients/"/>🕒 24h gradients clock</a>
