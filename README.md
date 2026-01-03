@@ -14,4 +14,5 @@
 - <a target="_blank" href="https://yanndurandet.github.io/TheMatrix">🖥️ The Matrix</a>
 - <a target="_blank" href="https://yanndurandet.github.io/arrowz">🏹 Arrowz</a>
 - <a target="_blank" href="https://yanndurandet.github.io/Halftone-Editor"/>🖼️ Halftone Editor</a>
+- <a target="_blank" href="https://yanndurandet.github.io/8bitseditor/"/>🖼️ 8bits Editor</a>
 - <a target="_blank" href="https://yanndurandet.github.io/24-hours-of-gradients/"/>🕒 24h gradients clock</a>
