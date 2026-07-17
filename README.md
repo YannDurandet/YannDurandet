@@ -42,12 +42,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yanndurandet&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanndurandet&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YannDurandet&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&text_color=c9d1d9" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Yanndurandet&theme=dark&hide_border=true&background=0D1117&ring=E10600&fire=E10600&currStreakLabel=E10600" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=YannDurandet&theme=dark&hide_border=true&background=0D1117&ring=E10600&fire=E10600&currStreakLabel=E10600" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yanndurandet&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=YannDurandet&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
