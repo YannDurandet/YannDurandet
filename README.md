@@ -7,7 +7,8 @@
 [![X](https://img.shields.io/badge/-@YannDurandet-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YannDurandet)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-durandet-web-designer/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/durandet.studio/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yanndurandet.me/)
+[![Portfolio](https://img.shields.io/badge/-durandet.studio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://durandet.studio/)
+[![Linktree](https://img.shields.io/badge/-Linktree-1BD760?style=for-the-badge&logo=linktree&logoColor=white)](https://yanndurandet.me/)
 
 </div>
 
@@ -16,8 +17,8 @@
 ## 🏁 About Me
 
 - 🌲 23 y/o Front-End Web Developer & Designer, based near Rouen, Normandy — **France**
-- 🚀 Founder & builder of **[DORD](https://yanndurandet.me/)** — a motorsport-focused web platform, currently scaling audience + affiliate integrations
-- 🎨 Running **DRNDT Studio**, my freelance design practice — open to select client work
+- 🚀 Founder & builder of **[DORD](https://dord.racing/)** — a motorsport-focused web platform, currently scaling audience + affiliate integrations
+- 🎨 Running **[DRNDT Studio](https://durandet.studio/)**, my freelance design practice — open to select client work
 - 🏎️ Motorsport obsessive — if it has an engine and a lap time, I'm watching it
 - 💪 Training in the gym as seriously as I train in Figma — discipline compounds
 - 🇧🇷 Currently learning Brazilian Portuguese, one conjugation at a time
@@ -57,25 +58,24 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yanndurandet&repo=yanndurandet.github.io&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.me)
-[![Motorsports Calendar](https://github-readme-stats.vercel.app/api/pin/?username=Yanndurandet&repo=2026-MOTORSPORTS-CALENDAR&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/2026-MOTORSPORTS-CALENDAR/)
+[![DORD](https://img.shields.io/badge/DORD-dord.racing-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dord.racing/)
+[![DRNDT Studio](https://img.shields.io/badge/DRNDT_Studio-durandet.studio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://durandet.studio/)
 
-[![8bits Editor](https://github-readme-stats.vercel.app/api/pin/?username=Yanndurandet&repo=8bitseditor&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/8bitseditor/)
-[![24h Gradients Clock](https://github-readme-stats.vercel.app/api/pin/?username=Yanndurandet&repo=24-hours-of-gradients&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/24-hours-of-gradients/)
+<br>
+
+[![Motorsports Calendar](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=2026-MOTORSPORTS-CALENDAR&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://dord.racing/)
+[![8bits Editor](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=8bitseditor&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/8bitseditor/)
+[![24h Gradients Clock](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=24-hours-of-gradients&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/24-hours-of-gradients/)
 
 </div>
-
-> Note: pin cards above pull the repo name from the URL. Double check each repo name matches exactly (case-sensitive) once this is live — GitHub will silently fail to render a card if the repo slug is off.
 
 <br>
 
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Yanndurandet/Yanndurandet/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/YannDurandet/YannDurandet/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-<sub>This one needs a one-time GitHub Action setup — see `snake.yml` below. It's not automatic until you add the workflow.</sub>
 
 <br>
 
@@ -83,6 +83,6 @@
 
 ### "Lights out, and away we go."
 
-<img src="https://komarev.com/ghpvc/?username=Yanndurandet&color=e10600&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YannDurandet&color=e10600&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
