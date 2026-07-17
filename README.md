@@ -16,10 +16,9 @@
 
 ## 🏁 About Me
 
-- 🌲 23 y/o Front-End Web Developer & Designer, based near Rouen, Normandy — **France**
+- 🌲 23 y/o Web Developer & Designer, Brand designer & Art Director, based near Rouen, Normandy — **France**
 - 🚀 Founder & builder of **[DORD](https://dord.racing/)** — a motorsport-focused web platform, currently scaling audience + affiliate integrations
 - 🎨 Running **[DRNDT Studio](https://durandet.studio/)**, my freelance design practice — open to select client work
-- 🏎️ Motorsport-obsessed — it's the reason DORD exists
 
 <div align="center">
 
@@ -40,14 +39,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YannDurandet&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannDurandet&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=YannDurandet&theme=dark&hide_border=true&background=0D1117&ring=E10600&fire=E10600&currStreakLabel=E10600" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YannDurandet&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-
+<img src="https://raw.githubusercontent.com/YannDurandet/YannDurandet/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
@@ -61,8 +53,11 @@
 
 <br>
 
-[![8bits Editor](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=8bitseditor&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/8bitseditor/)
-[![24h Gradients Clock](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=24-hours-of-gradients&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/24-hours-of-gradients/)
+**[8bits Editor](https://yanndurandet.github.io/8bitseditor/)**
+[![stars](https://img.shields.io/github/stars/YannDurandet/8bitseditor?style=for-the-badge&color=E10600&labelColor=0D1117)](https://github.com/YannDurandet/8bitseditor)
+
+**[24h Gradients Clock](https://yanndurandet.github.io/24-hours-of-gradients/)**
+[![stars](https://img.shields.io/github/stars/YannDurandet/24-hours-of-gradients?style=for-the-badge&color=E10600&labelColor=0D1117)](https://github.com/YannDurandet/24-hours-of-gradients)
 
 </div>
 
