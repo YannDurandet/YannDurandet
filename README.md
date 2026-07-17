@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-durandet-web-designer/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/durandet.studio/)
 [![Portfolio](https://img.shields.io/badge/-durandet.studio-E10600?style=for-the-badge&logo=googlechrome&logoColor=white)](https://durandet.studio/)
-[![Linktree](https://img.shields.io/badge/-Linktree-1BD760?style=for-the-badge&logo=linktree&logoColor=white)](https://yanndurandet.me/)
+[![More Links](https://img.shields.io/badge/-More_Links-333333?style=for-the-badge)](https://yanndurandet.me/)
 
 </div>
 
@@ -19,9 +19,7 @@
 - 🌲 23 y/o Front-End Web Developer & Designer, based near Rouen, Normandy — **France**
 - 🚀 Founder & builder of **[DORD](https://dord.racing/)** — a motorsport-focused web platform, currently scaling audience + affiliate integrations
 - 🎨 Running **[DRNDT Studio](https://durandet.studio/)**, my freelance design practice — open to select client work
-- 🏎️ Motorsport obsessive — if it has an engine and a lap time, I'm watching it
-- 💪 Training in the gym as seriously as I train in Figma — discipline compounds
-- 🇧🇷 Currently learning Brazilian Portuguese, one conjugation at a time
+- 🏎️ Motorsport-obsessed — it's the reason DORD exists
 
 <div align="center">
 
@@ -63,7 +61,6 @@
 
 <br>
 
-[![Motorsports Calendar](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=2026-MOTORSPORTS-CALENDAR&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://dord.racing/)
 [![8bits Editor](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=8bitseditor&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/8bitseditor/)
 [![24h Gradients Clock](https://github-readme-stats.vercel.app/api/pin/?username=YannDurandet&repo=24-hours-of-gradients&theme=dark&hide_border=true&bg_color=0D1117&title_color=E10600)](https://yanndurandet.github.io/24-hours-of-gradients/)
 
